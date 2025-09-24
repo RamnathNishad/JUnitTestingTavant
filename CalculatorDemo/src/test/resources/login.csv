@@ -1,0 +1,7 @@
+ username,password,expectedResult
+ admin,password,true
+ admin,wrongpassword,false
+ user,password,false
+ guest,guest123,false
+ john,john123,false
+ david,david123,false
